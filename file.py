@@ -16,5 +16,3 @@ for  name,seq in fasta.items():
     print("G:",seq.count("G"))
     print("C:",seq.count("C"))
 print ()
-#r"c:\Users\dipali\OneDrive\Documents\Custom Office Templates\butter.py\sampl.fasta"
-#C:\Users\dipali\OneDrive\Documents\Custom Office Templates\butter.py
