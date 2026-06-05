@@ -10,5 +10,4 @@ k=3#k mer and finding the protein sequence
 freq={}
 for i in range(len(dna)-k+1):
     kmer=dna[i:i+k]
-    
     print(kmer,"-->",kmer.translate())
